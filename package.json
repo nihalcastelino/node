@@ -1,0 +1,15 @@
+{
+  "name": "node-parse-rss",
+  "description": "RSS Feed Reader in Node.js",
+  "author": "https://github.com/nihalcastelino",
+  "dependencies": {
+    "feed-read": "*",
+    "async":"*",
+    "request":"*",
+    "express":"*"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "engine": "node >= 0.10.22"
+}
