@@ -5,8 +5,7 @@
   "dependencies": {
     "feed-read": "*",
     "async":"*",
-    "request":"*",
-    "express":"*"
+    "request":"*"
   },
   "devDependencies": {
     "mocha": "*"
